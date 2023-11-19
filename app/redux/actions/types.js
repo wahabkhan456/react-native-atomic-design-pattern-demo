@@ -1,0 +1,10 @@
+//loaders
+export const LOGIN_ENABLE_LOADER = 'LOGIN_ENABLE_LOADER';
+export const LOGIN_DISABLE_LOADER = 'LOGIN_DISABLE_LOADER';
+
+//Jobs
+export const DATA_REQUEST = 'DATA_REQUEST';
+export const DATA_SUCCESS = 'DATA_SUCCESS';
+export const DATA_FAILURE = 'DATA_FAILURE';
+export const CLEAN_STATE = 'CLEAN_STATE';
+
